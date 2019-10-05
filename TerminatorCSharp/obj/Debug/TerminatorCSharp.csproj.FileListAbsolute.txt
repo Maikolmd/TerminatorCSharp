@@ -1,0 +1,2 @@
+c:\users\sistemas\documents\visual studio 2015\Projects\TerminatorCSharp\TerminatorCSharp\bin\Debug\TerminatorCSharp.exe.config
+G:\INACAP2019\Programacion Avanzada\TerminatorCSharp\TerminatorCSharp\bin\Debug\TerminatorCSharp.exe.config
